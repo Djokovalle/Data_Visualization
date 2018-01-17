@@ -11,6 +11,7 @@ set:
 each of the levels of that variable
 - Numeric variables: Same plot the data subsets corresponding to intervals of
 that variable.
+
 Furthermore, they is a variety of displays which can be produced by Trellis:
 – Bar Charts
 – Dot Charts
@@ -19,9 +20,17 @@ Furthermore, they is a variety of displays which can be produced by Trellis:
 – Density Traces
 – QQ Plots
 – Scatter Plots
+
 Examples:
 
-Trellis 
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="Trellis plot.jpg" align="center">
+    </td>
+  </tr>
+</table>
 
 - The plot is read left-to-right and bottom-to-top.
 - Depth increases progressively through the plot.
@@ -31,7 +40,14 @@ approximately the same number of earthquakes.
 - The range of depths covered by each interval is
 indicated in the bar above each plot.
 
-Trellis_2
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="Trellis_2.jpg" align="center">
+    </td>
+  </tr>
+</table>
 
 
 
