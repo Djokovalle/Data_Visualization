@@ -58,7 +58,7 @@ The advatange of multiple information. It gives a straight foward overview on th
       <img src="http://www.personal.reading.ac.uk/~sns97aal/MTBprofile.jpg" style="width: 100px;">
     </td>
     <td>
-      <a href="http://www.personal.reading.ac.uk/~sns97aal/MTBprofile.jpg">File:GanttChartAnatomy.png</a><br>by Garry L. Booker
+      <a href="http://www.personal.reading.ac.uk/~sns97aal/MTBprofile.jpg">File:GanttChartAnatomy.png</a><br>by Sandro Leidi
     </td>
   </tr>
 </table>
@@ -68,18 +68,10 @@ This trellis plot is a scatter plot of the evolution of the soil over the years.
 <table border="0">
   <tr>
     <td>
-      <img src="trellis_drought.jpg" align="center">
-    </td>
-  </tr>
-</table>
-<table border="0">
-  <tr>
-    <td>
       <img src="https://www.researchgate.net/publication/268452555/figure/fig4/AS:271868347285507@1441829873377/Figure-6-Trellis-plot-depicting-relationships-between-morphological-dehydration.png" style="width: 100px;">
     </td>
     <td>
-      <a href="https://www.researchgate.net/publication/268452555/figure/fig4/AS:271868347285507@1441829873377/Figure-6-Trellis-plot-depicting-relationships-between-morphological-dehydration.png">File:GanttChartAnatomy.png</a><br>by Garry L. Booker
-    </td>
+      <a href="https://www.researchgate.net/publication/268452555/figure/fig4/AS:271868347285507@1441829873377/Figure-6-Trellis-plot-depicting-relationships-between-morphological-dehydration.png"></a><br>Replicate altitudinal clines reveal evolutionary flexibility underlies adaptation to drought stress in annual Mimulus guttatus    </td>
   </tr>
 </table>
 
@@ -87,9 +79,33 @@ Trellis plot depicting relationships between morphological, dehydration avoidanc
 
 In this case the trellis plot was used to its fullest potential, because one is able to actually distract a lot of information from one plot. At the same time, a first look already gives you an idication on the most important aspects of the research. Furthermore, the highlighting of the most significant correlations immediatly catches your eyes.
 
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://storage.globalquakemodel.org/media/cms_page_media/96/GMPE-1.png.630x450_q85_crop.png" style="width: 100px;">
+    </td>
+    <td>
+      <a href="https://storage.globalquakemodel.org/media/cms_page_media/96/GMPE-1.png.630x450_q85_crop.png"></a><br> From Ground Motion Prediction Equations    </td>
+  </tr>
+</table>
+
+The Plot shows a multitude of information concerning the evolution of an earthquake. Therefore, it highlights different sights with different coulours, but except of the general tendency the superposition of the graphs doesn't allow for the extraction of more detailled information. A possibility could be to superimpose less graphs or introduce different shapes to make them more distinguishable. Furthermore, insteqd of a graph a boxplot could have been more usefull.
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="http://pandas.pydata.org/pandas-docs/version/0.14/_images/rplot4_tips.png" style="width: 100px;">
+    </td>
+    <td>
+      <a href="http://pandas.pydata.org/pandas-docs/version/0.14/_images/rplot4_tips.png"></a><br> From Python tutorial for trellis plots</td>
+  </tr>
+</table>
+
+The plot is a statistical summary about the amount of tips depending on multiple factors. The usage of kernels is a good way in this case to superimpose multiple data, because it allows the addition of scatterplots and in an effective manner. However, one should add a legend, because it is not clear what all the attributs are.  
 
 ## Ressources
 https://www.stat.auckland.ac.nz/~ihaka/787/lectures-trellis.pdf
 http://www.personal.reading.ac.uk/~sns97aal/MTBtrellis.html
 https://www.researchgate.net/figure/Trellis-plot-depicting-relationships-between-morphological-dehydration-avoidance-and_268452555
-
+https://storage.globalquakemodel.org/what/seismic-hazard/gmpes/
+http://pandas.pydata.org/pandas-docs/version/0.14/rplot.html
