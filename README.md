@@ -20,7 +20,7 @@ Furthermore, they is a variety of displays which can be produced by Trellis:
 – Density Traces
 – QQ Plots
 – Scatter Plots
-
+Therefore they are extremely adaptable, which in term makes it a suitable visualization for a vast range of data.
 Examples:
 
 
@@ -49,5 +49,19 @@ indicated in the bar above each plot.
   </tr>
 </table>
 
+This example illustrates the yields obtained from field trials of barley seed. In total it displayes 
+120 observations over an period of 2 years. Because of the superimposion of the 2 years for multiple strains. 
+The advatange of multiple information. It gives a straight foward overview on the evolution and for different experiments in a way that allows one to determine first correlations.
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="trelles_scatter.png" align="center">
+    </td>
+  </tr>
+</table>
+
+## Ressources
+https://www.stat.auckland.ac.nz/~ihaka/787/lectures-trellis.pdf
 
 
