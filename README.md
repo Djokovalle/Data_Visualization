@@ -56,7 +56,7 @@ The advatange of multiple information. It gives a straight foward overview on th
 <table border="0">
   <tr>
     <td>
-      <img src="trelles_scatter.png" align="center">
+      <img src="trellis_soil.jpg" align="center">
     </td>
   </tr>
 </table>
@@ -66,7 +66,7 @@ This trellis plot is a scatter plot of the evolution of the soil over the years.
 <table border="0">
   <tr>
     <td>
-      <img src="trellis_drought.png" align="center">
+      <img src="trellis_drought.jpg" align="center">
     </td>
   </tr>
 </table>
