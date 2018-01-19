@@ -103,6 +103,8 @@ The Plot shows a multitude of information concerning the evolution of an earthqu
 
 The plot is a statistical summary about the amount of tips depending on multiple factors. The usage of kernels is a good way in this case to superimpose multiple data, because it allows the addition of scatterplots and in an effective manner. However, one should add a legend, because it is not clear what all the attributs are.  
 
+The presented plots illustrate the general issue of this kind of data visualization. There is a critical mass of data to superimpose in the same plot, because despite containing a lot of information their distraction is not intuitive. From an initial view the reader can't understand or use the plot effectively 
+
 ## Ressources
 https://www.stat.auckland.ac.nz/~ihaka/787/lectures-trellis.pdf
 http://www.personal.reading.ac.uk/~sns97aal/MTBtrellis.html
