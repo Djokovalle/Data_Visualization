@@ -52,11 +52,13 @@ indicated in the bar above each plot.
 This example illustrates the yields obtained from field trials of barley seed. In total it displayes 
 120 observations over an period of 2 years. Because of the superimposion of the 2 years for multiple strains. 
 The advatange of multiple information. It gives a straight foward overview on the evolution and for different experiments in a way that allows one to determine first correlations.
-
 <table border="0">
   <tr>
     <td>
-      <img src="trellis_soil.jpg" align="center">
+      <img src="http://www.personal.reading.ac.uk/~sns97aal/MTBprofile.jpg" style="width: 100px;">
+    </td>
+    <td>
+      <a href="http://www.personal.reading.ac.uk/~sns97aal/MTBprofile.jpg">File:GanttChartAnatomy.png</a><br>by Garry L. Booker
     </td>
   </tr>
 </table>
@@ -67,6 +69,16 @@ This trellis plot is a scatter plot of the evolution of the soil over the years.
   <tr>
     <td>
       <img src="trellis_drought.jpg" align="center">
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://www.researchgate.net/publication/268452555/figure/fig4/AS:271868347285507@1441829873377/Figure-6-Trellis-plot-depicting-relationships-between-morphological-dehydration.png" style="width: 100px;">
+    </td>
+    <td>
+      <a href="https://www.researchgate.net/publication/268452555/figure/fig4/AS:271868347285507@1441829873377/Figure-6-Trellis-plot-depicting-relationships-between-morphological-dehydration.png">File:GanttChartAnatomy.png</a><br>by Garry L. Booker
     </td>
   </tr>
 </table>
