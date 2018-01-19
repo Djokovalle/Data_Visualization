@@ -61,7 +61,23 @@ The advatange of multiple information. It gives a straight foward overview on th
   </tr>
 </table>
 
+This trellis plot is a scatter plot of the evolution of the soil over the years. It statistically summarises the amount of soil erosion over time. In this case it can be used as a quick decision making tool at the exploratory stage. Nevertheless, the plot could have been made more effecive in terms of colouring and accessibility. A first look doesn't allow one to extract the important information. 
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="trellis_drought.png" align="center">
+    </td>
+  </tr>
+</table>
+
+Trellis plot depicting relationships between morphological, dehydration avoidance and drought escape traits. Scatterplots below diagonal are bivariate means for each Mimulus guttatus line. Plots along the diagonal are histograms for line means for each trait. Numbers above diagonal are Pearson correlation coefficients for each trait–trait association. Red values indicate statistically significant correlations. Asterisks are used to depict P-values associated with each bivariate correlation:
+
+In this case the trellis plot was used to its fullest potential, because one is able to actually distract a lot of information from one plot. At the same time, a first look already gives you an idication on the most important aspects of the research. Furthermore, the highlighting of the most significant correlations immediatly catches your eyes.
+
+
 ## Ressources
 https://www.stat.auckland.ac.nz/~ihaka/787/lectures-trellis.pdf
-
+http://www.personal.reading.ac.uk/~sns97aal/MTBtrellis.html
+https://www.researchgate.net/figure/Trellis-plot-depicting-relationships-between-morphological-dehydration-avoidance-and_268452555
 
