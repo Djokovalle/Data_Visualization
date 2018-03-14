@@ -1,4 +1,4 @@
-# Work on Geo-Map
+# Work on Trellis Graphs
 ## Historical examples
 
 Trellis Graphics is a family of techniques for viewing complex, multi-variable data sets. The ideas have been around for a while, but were formalized by researchers at Bell Laboratories during the 1990s.
